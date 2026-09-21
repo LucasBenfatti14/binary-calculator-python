@@ -64,7 +64,7 @@ Trata-se de um projeto **100% autoral**, desenvolvido com o objetivo de aprofund
 
 <p align="center">
   Lucas Benfatti <br>
-  📍 Santos - SP
+  📍 SP - Brasil
 </p>
 
 ---
